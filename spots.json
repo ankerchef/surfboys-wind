@@ -1,0 +1,109 @@
+{
+  "_note": "Retninger i grader (hvor vinden kommer FRA). good = bedste sektor (side/side-on), ok = kan køres. Alt udenfor = fralandsvind/blokeret = NO-GO. Justér frit. Grænser i m/s: 7,5–13 m/s = topscore, 6–7,5 = stor kite/foil, under 5 = nej.",
+  "spots": [
+    {
+      "id": "lynaes",
+      "name": "Lynæs",
+      "area": "Halsnæs",
+      "lat": 55.946,
+      "lon": 11.858,
+      "good": [
+        200,
+        330
+      ],
+      "ok": [
+        170,
+        360
+      ],
+      "water": "Flat/chop"
+    },
+    {
+      "id": "sydvest",
+      "name": "Amager Sydvestpynten",
+      "area": "Amager",
+      "lat": 55.578,
+      "lon": 12.552,
+      "good": [
+        170,
+        280
+      ],
+      "ok": [
+        140,
+        300
+      ],
+      "water": "Flat/chop"
+    },
+    {
+      "id": "sylten",
+      "name": "Amager Sylten",
+      "area": "Amager",
+      "lat": 55.646,
+      "lon": 12.653,
+      "good": [
+        30,
+        180
+      ],
+      "ok": [
+        0,
+        200
+      ],
+      "water": "Flat lagune"
+    },
+    {
+      "id": "hornbaek",
+      "name": "Hornbæk",
+      "area": "Nordkysten",
+      "lat": 56.093,
+      "lon": 12.462,
+      "good": [
+        290,
+        70
+      ],
+      "ok": [
+        260,
+        100
+      ],
+      "water": "Bølger"
+    },
+    {
+      "id": "kabel",
+      "name": "Kabelstrand",
+      "area": "Rørvig",
+      "lat": 55.962,
+      "lon": 11.748,
+      "good": [
+        270,
+        50
+      ],
+      "ok": [
+        240,
+        80
+      ],
+      "water": "Bølger/chop"
+    },
+    {
+      "id": "gudmindrup",
+      "name": "Gudmindrup",
+      "area": "Odsherred",
+      "lat": 55.975,
+      "lon": 11.592,
+      "good": [
+        260,
+        40
+      ],
+      "ok": [
+        230,
+        70
+      ],
+      "water": "Bølger"
+    }
+  ],
+  "thresholds_ms": {
+    "foil": 5,
+    "min": 6,
+    "good_lo": 7.5,
+    "good_hi": 13,
+    "overpowered": 15.5,
+    "max": 18
+  }
+}
