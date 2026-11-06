@@ -184,6 +184,34 @@ def fetch_ensembles(spots):
         print(f"  + ens {m}: {len(per[0]['members']) if per else 0} members")
     return out
 
+
+# ---------------------------------------------------------------- wind map grid
+GRID_LATS = [round(55.45 + 0.1 * i, 2) for i in range(9)]    # 55.45 .. 56.25
+GRID_LONS = [round(11.0 + 0.2 * i, 2) for i in range(11)]    # 11.0 .. 13.0
+GRID_MODEL = "dmi_seamless"
+GRID_HOURS = range(6, 19)
+
+def fetch_grid(now):
+    """Wind field over Zealand/Øresund for the map: one model, daylight hours, 6 days."""
+    pts = [(la, lo) for la in GRID_LATS for lo in GRID_LONS]
+    q = urllib.parse.urlencode({
+        "latitude": ",".join(str(a) for a, _ in pts), "longitude": ",".join(str(b) for _, b in pts),
+        "models": GRID_MODEL, "timezone": TZ, "hourly": "wind_speed_10m,wind_direction_10m",
+        "wind_speed_unit": "ms", "forecast_days": DAYS,
+    })
+    j = http_json("https://api.open-meteo.com/v1/forecast?" + q)
+    if not j: return None
+    j = j if isinstance(j, list) else [j]
+    if len(j) != len(pts): return None
+    times = [t for t in j[0]["hourly"]["time"] if int(t[11:13]) in GRID_HOURS]
+    idx = [j[0]["hourly"]["time"].index(t) for t in times]
+    ws, wd = [], []
+    for i in idx:
+        ws.append([None if l["hourly"]["wind_speed_10m"][i] is None else round(l["hourly"]["wind_speed_10m"][i] * 10) for l in j])
+        wd.append([None if l["hourly"]["wind_direction_10m"][i] is None else round(l["hourly"]["wind_direction_10m"][i]) for l in j])
+    return {"generated": now.isoformat(timespec="minutes"), "model": MODELS.get(GRID_MODEL, GRID_MODEL),
+            "lats": GRID_LATS, "lons": GRID_LONS, "times": times, "ws10": ws, "wd": wd}
+
 # ---------------------------------------------------------------- weights
 def load_weights(v):
     """Inverse-MAE² weights per model per lead day from verification; equal until 5+ samples."""
@@ -430,6 +458,11 @@ def main():
     (DATA / "latest.json").write_text(json.dumps(latest, ensure_ascii=False, separators=(",", ":")))
     (DATA / "verify.json").write_text(json.dumps(v, ensure_ascii=False, separators=(",", ":")))
     (DATA / "brief.md").write_text(brief(res, v, now))
+    try:
+        grid = fetch_grid(now)
+        if grid: (DATA / "grid.json").write_text(json.dumps(grid, separators=(",", ":")))
+    except Exception as e:
+        print("grid failed:", e, file=sys.stderr)
 
     # morning snapshot used for verification later
     snapf = HIST / f"fc-{now.date().isoformat()}.json"
