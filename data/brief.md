@@ -7,5 +7,5 @@
 - lør: ingen kite (bedst Lynæs 0%)
 - søn: ingen kite (bedst Lynæs 0%)
 - man: ingen kite (bedst Lynæs 0%)
-- tir: ingen kite (bedst Lynæs 0%)
-- ons: ingen kite (bedst Amager Sylten 10%)
+- tir: ingen kite (bedst Lynæs 1%)
+- ons: ingen kite (bedst Lynæs 3%)
