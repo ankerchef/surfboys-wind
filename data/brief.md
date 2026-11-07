@@ -7,7 +7,7 @@
 - søn: ingen kite (bedst Lynæs 0%)
 - man: ingen kite (bedst Lynæs 0%)
 - tir: ingen kite (bedst Lynæs 1%)
-- ons: ingen kite (bedst Lynæs 3%)
-- tor: ingen kite (bedst Lynæs 25%)
+- ons: ingen kite (bedst Lynæs 1%)
+- tor: ingen kite (bedst Lynæs 26%)
 
 _Træfsikkerhed 30 dage: 100% (5 spot-dage)._
