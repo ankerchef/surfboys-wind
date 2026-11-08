@@ -7,7 +7,7 @@
 - man: ingen kite (bedst Lynæs 0%)
 - tir: ingen kite (bedst Lynæs 0%)
 - ons: ingen kite (bedst Lynæs 12%)
-- tor: **Lynæs** 73% · 10 m/s V · kl. 8–16
-- fre: ingen kite (bedst Lynæs 52%)
+- tor: **Lynæs** 77% · 10 m/s V · kl. 8–16
+- fre: ingen kite (bedst Lynæs 59%)
 
 _Træfsikkerhed 30 dage: 100% (15 spot-dage)._
