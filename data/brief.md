@@ -5,9 +5,9 @@
 
 ## Næste 5 dage
 - tir: ingen kite (bedst Lynæs 0%)
-- ons: ingen kite (bedst Gudmindrup 7%)
-- tor: **Lynæs** 75% · 10 m/s VSV · kl. 10–16
+- ons: ingen kite (bedst Lynæs 10%)
+- tor: **Lynæs** 69% · 10 m/s VSV · kl. 10–16
 - fre: **Lynæs** 77% · 10 m/s NV · kl. 8–16
-- lør: **Lynæs** 50% · 7 m/s VSV · kl. 15–16
+- lør: **Lynæs** 50% · 7 m/s VSV · kl. 13–16
 
 _Træfsikkerhed 30 dage: 100% (25 spot-dage)._
