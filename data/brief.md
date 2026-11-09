@@ -6,8 +6,8 @@
 ## Næste 5 dage
 - tir: ingen kite (bedst Kabelstrand 8%)
 - ons: ingen kite (bedst Lynæs 14%)
-- tor: **Lynæs** 73% · 9 m/s VSV · kl. 9–16
+- tor: **Lynæs** 73% · 10 m/s VSV · kl. 11–16
 - fre: **Lynæs** 73% · 9 m/s NV · kl. 8–16
-- lør: ingen kite (bedst Lynæs 48%)
+- lør: **Lynæs** 56% · 7 m/s VSV · kl. 15–16
 
 _Træfsikkerhed 30 dage: 100% (25 spot-dage)._
