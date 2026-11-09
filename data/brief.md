@@ -1,13 +1,13 @@
-# Surfboys vind · man 9/11
+# Surfboys vind · tir 10/11
 
 ## I dag
-- Ingen kite i dag. Max ~4 m/s ved Lynæs.
+- Ingen kite i dag. Max ~2 m/s ved Lynæs.
 
 ## Næste 5 dage
-- tir: ingen kite (bedst Lynæs 0%)
-- ons: ingen kite (bedst Lynæs 10%)
-- tor: **Lynæs** 69% · 10 m/s VSV · kl. 10–16
-- fre: **Lynæs** 77% · 10 m/s NV · kl. 8–16
-- lør: **Lynæs** 50% · 7 m/s VSV · kl. 13–16
+- ons: ingen kite (bedst Lynæs 12%)
+- tor: **Lynæs** 70% · 9 m/s VSV · kl. 12–16
+- fre: **Lynæs** 75% · 9 m/s NV · kl. 8–16
+- lør: **Lynæs** 51% · 7 m/s VSV · kl. 13–16
+- søn: **Lynæs** 35% · 7 m/s SSV · kl. 9–10
 
-_Træfsikkerhed 30 dage: 100% (25 spot-dage)._
+_Træfsikkerhed 30 dage: 100% (35 spot-dage)._
