@@ -5,8 +5,8 @@
 
 ## Næste 5 dage
 - tor: **Lynæs** 94% · 12 m/s SV · kl. 11–16
-- fre: **Lynæs** 82% · 8 m/s NV · kl. 8–16
-- lør: **Lynæs** 62% · 7 m/s VSV · kl. 13–16
+- fre: **Gudmindrup** 85% · 9 m/s NV · kl. 8–16
+- lør: **Lynæs** 62% · 7 m/s VSV · kl. 12–15
 - søn: ingen kite (bedst Lynæs 21%)
 - man: ingen kite (bedst Lynæs 25%)
 
