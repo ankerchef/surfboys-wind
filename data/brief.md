@@ -1,15 +1,15 @@
 # Surfboys vind · tor 12/11
 
 ## I dag
-- **Lynæs** GO · 98% · kl. 12–16 · 10 m/s (stød 17) fra SV · sikkerhed mellem
-- **Gudmindrup** GO · 68% · kl. 8–11 · 8 m/s (stød 13) fra V · sikkerhed mellem
-- **Amager Sydvestpynten** MÅSKE · 56% · kl. 14–16 · 9 m/s (stød 17) fra SV · sikkerhed mellem
+- **Lynæs** GO · 98% · kl. 11–16 · 12 m/s (stød 18) fra VSV · sikkerhed mellem
+- **Gudmindrup** MÅSKE · 55% · kl. 15–16 · 12 m/s (stød 18) fra V · sikkerhed lav
+- **Amager Sydvestpynten** MÅSKE · 56% · kl. 14–16 · 8 m/s (stød 17) fra SV · sikkerhed mellem
 
 ## Næste 5 dage
-- fre: **Gudmindrup** 86% · 10 m/s VNV · kl. 8–16
-- lør: **Lynæs** 36% · 7 m/s VSV · kl. 14–15
+- fre: **Gudmindrup** 96% · 10 m/s VNV · kl. 8–16
+- lør: **Lynæs** 54% · 7 m/s VSV · kl. 14–15
 - søn: ingen kite (bedst Amager Sylten 29%)
-- man: **Lynæs** 40% · 8 m/s S · kl. 8–11
-- tir: **Lynæs** 57% · 10 m/s SV · kl. 8–16
+- man: **Amager Sydvestpynten** 45% · 8 m/s SSV · kl. 12–15
+- tir: **Lynæs** 53% · 8 m/s SSV · kl. 14–16
 
 _Træfsikkerhed 30 dage: 100% (55 spot-dage)._
