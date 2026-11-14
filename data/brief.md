@@ -5,7 +5,7 @@
 - **Gudmindrup** MÅSKE · 58% · kl. 10–11 · 8 m/s (stød 12) fra VSV · sikkerhed mellem
 
 ## Næste 5 dage
-- søn: **Amager Sylten** 63% · 7 m/s S · kl. 13–15
+- søn: **Amager Sylten** 49% · 7 m/s S · kl. 13–15
 - man: **Gudmindrup** 80% · 12 m/s V · kl. 12–16
 - tir: ingen kite (bedst Lynæs 22%)
 - ons: ingen kite (bedst Gudmindrup 21%)
