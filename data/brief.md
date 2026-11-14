@@ -1,14 +1,13 @@
-# Surfboys vind · lør 14/11
+# Surfboys vind · søn 15/11
 
 ## I dag
-- **Lynæs** MÅSKE · 59% · kl. 8–16 · 8 m/s (stød 12) fra VSV · sikkerhed mellem
-- **Gudmindrup** MÅSKE · 58% · kl. 10–11 · 8 m/s (stød 12) fra VSV · sikkerhed mellem
+- **Amager Sylten** MÅSKE · 51% · kl. 11–12 · 7 m/s (stød 11) fra S · sikkerhed mellem
 
 ## Næste 5 dage
-- søn: **Amager Sylten** 47% · 7 m/s S · kl. 13–14
-- man: ingen kite (bedst Lynæs 51%)
-- tir: ingen kite (bedst Lynæs 22%)
-- ons: ingen kite (bedst Kabelstrand 20%)
-- tor: ingen kite (bedst Lynæs 14%)
+- man: **Lynæs** 43% · 7 m/s VSV · kl. 15–16
+- tir: ingen kite (bedst Lynæs 13%)
+- ons: ingen kite (bedst Kabelstrand 21%)
+- tor: ingen kite (bedst Lynæs 12%)
+- fre: **Lynæs** 41% · 8 m/s NV · kl. 9–13
 
-_Træfsikkerhed 30 dage: 97% (75 spot-dage)._
+_Træfsikkerhed 30 dage: 93% (85 spot-dage)._
