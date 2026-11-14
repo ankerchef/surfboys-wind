@@ -7,8 +7,8 @@
 ## Næste 5 dage
 - søn: **Amager Sylten** 63% · 7 m/s S · kl. 13–15
 - man: **Gudmindrup** 80% · 12 m/s V · kl. 12–16
-- tir: ingen kite (bedst Lynæs 17%)
-- ons: ingen kite (bedst Kabelstrand 20%)
+- tir: ingen kite (bedst Lynæs 22%)
+- ons: ingen kite (bedst Gudmindrup 21%)
 - tor: ingen kite (bedst Lynæs 15%)
 
 _Træfsikkerhed 30 dage: 97% (75 spot-dage)._
