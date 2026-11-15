@@ -5,8 +5,8 @@
 - **Amager Sydvestpynten** MÅSKE · 34% · kl. 12–15 · 7 m/s (stød 13) fra S · sikkerhed høj
 
 ## Næste 5 dage
-- man: ingen kite (bedst Lynæs 37%)
-- tir: ingen kite (bedst Lynæs 19%)
+- man: ingen kite (bedst Gudmindrup 17%)
+- tir: ingen kite (bedst Gudmindrup 10%)
 - ons: ingen kite (bedst Kabelstrand 17%)
 - tor: ingen kite (bedst Gudmindrup 12%)
 - fre: ingen kite (bedst Lynæs 27%)
