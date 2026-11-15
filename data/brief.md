@@ -4,8 +4,8 @@
 - **Amager Sylten** MÅSKE · 53% · kl. 12–13 · 7 m/s (stød 12) fra S · sikkerhed høj
 
 ## Næste 5 dage
-- man: ingen kite (bedst Lynæs 28%)
-- tir: ingen kite (bedst Gudmindrup 22%)
+- man: ingen kite (bedst Gudmindrup 17%)
+- tir: ingen kite (bedst Gudmindrup 15%)
 - ons: ingen kite (bedst Amager Sylten 16%)
 - tor: ingen kite (bedst Lynæs 8%)
 - fre: ingen kite (bedst Lynæs 18%)
