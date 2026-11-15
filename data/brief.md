@@ -1,7 +1,7 @@
 # Surfboys vind · søn 15/11
 
 ## I dag
-- **Amager Sylten** MÅSKE · 67% · kl. 12–14 · 7 m/s (stød 12) fra S · sikkerhed høj
+- **Amager Sylten** MÅSKE · 53% · kl. 12–14 · 7 m/s (stød 12) fra S · sikkerhed høj
 - **Amager Sydvestpynten** MÅSKE · 36% · kl. 13–14 · 7 m/s (stød 13) fra S · sikkerhed høj
 
 ## Næste 5 dage
