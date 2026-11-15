@@ -6,7 +6,7 @@
 ## Næste 5 dage
 - man: ingen kite (bedst Lynæs 28%)
 - tir: ingen kite (bedst Gudmindrup 22%)
-- ons: ingen kite (bedst Lynæs 16%)
+- ons: ingen kite (bedst Amager Sylten 16%)
 - tor: ingen kite (bedst Lynæs 8%)
 - fre: ingen kite (bedst Lynæs 18%)
 
