@@ -6,8 +6,8 @@
 ## Næste 5 dage
 - man: ingen kite (bedst Gudmindrup 17%)
 - tir: ingen kite (bedst Gudmindrup 15%)
-- ons: ingen kite (bedst Amager Sylten 16%)
+- ons: ingen kite (bedst Amager Sylten 21%)
 - tor: ingen kite (bedst Lynæs 8%)
-- fre: ingen kite (bedst Lynæs 18%)
+- fre: ingen kite (bedst Gudmindrup 24%)
 
 _Træfsikkerhed 30 dage: 93% (85 spot-dage)._
