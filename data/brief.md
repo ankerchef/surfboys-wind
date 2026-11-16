@@ -4,10 +4,10 @@
 - Ingen kite i dag. Max ~4 m/s ved Lynæs.
 
 ## Næste 5 dage
-- tir: **Gudmindrup** 41% · 7 m/s VNV · kl. 8–9
-- ons: ingen kite (bedst Gudmindrup 27%)
-- tor: ingen kite (bedst Lynæs 6%)
-- fre: ingen kite (bedst Lynæs 19%)
-- lør: **Lynæs** 31% · 8 m/s V · kl. 8–16
+- tir: ingen kite (bedst Gudmindrup 25%)
+- ons: ingen kite (bedst Amager Sylten 26%)
+- tor: ingen kite (bedst Lynæs 1%)
+- fre: ingen kite (bedst Lynæs 16%)
+- lør: **Lynæs** 48% · 8 m/s V · kl. 8–16
 
 _Træfsikkerhed 30 dage: 92% (95 spot-dage)._
