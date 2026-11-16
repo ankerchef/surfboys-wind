@@ -5,7 +5,7 @@
 
 ## Næste 5 dage
 - tir: **Gudmindrup** 41% · 7 m/s VNV · kl. 8–9
-- ons: ingen kite (bedst Amager Sylten 24%)
+- ons: ingen kite (bedst Gudmindrup 27%)
 - tor: ingen kite (bedst Lynæs 6%)
 - fre: ingen kite (bedst Lynæs 19%)
 - lør: **Lynæs** 31% · 8 m/s V · kl. 8–16
