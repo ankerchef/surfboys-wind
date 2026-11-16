@@ -8,6 +8,6 @@
 - ons: ingen kite (bedst Amager Sylten 35%)
 - tor: ingen kite (bedst Gudmindrup 10%)
 - fre: ingen kite (bedst Lynæs 29%)
-- lør: **Lynæs** 54% · 8 m/s VNV · kl. 8–16
+- lør: **Lynæs** 54% · 8 m/s NV · kl. 8–16
 
 _Træfsikkerhed 30 dage: 92% (95 spot-dage)._
