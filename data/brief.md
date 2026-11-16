@@ -5,9 +5,9 @@
 
 ## Næste 5 dage
 - tir: ingen kite (bedst Lynæs 0%)
-- ons: ingen kite (bedst Amager Sylten 26%)
-- tor: ingen kite (bedst Lynæs 12%)
-- fre: ingen kite (bedst Lynæs 28%)
-- lør: **Lynæs** 49% · 9 m/s VNV · kl. 8–16
+- ons: **Amager Sylten** 35% · 7 m/s Ø · kl. 9–10
+- tor: ingen kite (bedst Lynæs 14%)
+- fre: ingen kite (bedst Lynæs 29%)
+- lør: **Lynæs** 54% · 9 m/s VNV · kl. 8–16
 
 _Træfsikkerhed 30 dage: 92% (95 spot-dage)._
