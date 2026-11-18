@@ -1,13 +1,13 @@
-# Surfboys vind · ons 18/11
+# Surfboys vind · tor 19/11
 
 ## I dag
-- **Amager Sylten** MÅSKE · 48% · kl. 14–15 · 7 m/s (stød 11) fra Ø · sikkerhed mellem
+- Ingen kite i dag. Max ~5 m/s ved Gudmindrup.
 
 ## Næste 5 dage
-- tor: ingen kite (bedst Gudmindrup 8%)
-- fre: **Gudmindrup** 43% · 7 m/s VNV · kl. 8–14
-- lør: **Lynæs** 55% · 8 m/s VNV · kl. 11–14
+- fre: **Gudmindrup** 56% · 7 m/s V · kl. 8–13
+- lør: **Lynæs** 59% · 8 m/s VNV · kl. 10–14
 - søn: ingen kite (bedst Gudmindrup 14%)
-- man: **Gudmindrup** 36% · 7 m/s N · kl. 8–10
+- man: **Gudmindrup** 37% · 7 m/s N · kl. 8–9
+- tir: ingen kite (bedst Lynæs 0%)
 
-_Træfsikkerhed 30 dage: 93% (115 spot-dage)._
+_Træfsikkerhed 30 dage: 93% (125 spot-dage)._
