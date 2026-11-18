@@ -5,8 +5,8 @@
 
 ## Næste 5 dage
 - tor: ingen kite (bedst Gudmindrup 8%)
-- fre: **Gudmindrup** 43% · 7 m/s VNV · kl. 8–16
-- lør: ingen kite (bedst Lynæs 53%)
+- fre: **Gudmindrup** 43% · 7 m/s VNV · kl. 8–14
+- lør: **Lynæs** 53% · 7 m/s VNV · kl. 12–13
 - søn: ingen kite (bedst Gudmindrup 14%)
 - man: **Gudmindrup** 32% · 7 m/s N · kl. 8–10
 
