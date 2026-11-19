@@ -4,10 +4,10 @@
 - Ingen kite i dag. Max ~6 m/s ved Gudmindrup.
 
 ## Næste 5 dage
-- lør: **Gudmindrup** 89% · 10 m/s VNV · kl. 8–16
-- søn: ingen kite (bedst Gudmindrup 37%)
-- man: **Kabelstrand** 46% · 7 m/s N · kl. 8–9
-- tir: ingen kite (bedst Lynæs 0%)
+- lør: **Gudmindrup** 90% · 10 m/s VNV · kl. 8–16
+- søn: **Gudmindrup** 39% · 7 m/s N · kl. 8–9
+- man: **Kabelstrand** 47% · 8 m/s N · kl. 8–10
+- tir: ingen kite (bedst Hornbæk 2%)
 - ons: ingen kite (bedst Amager Sylten 2%)
 
 _Træfsikkerhed 30 dage: 93% (133 spot-dage)._
