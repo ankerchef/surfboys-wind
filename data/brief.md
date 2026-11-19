@@ -4,7 +4,7 @@
 - Ingen kite i dag. Max ~6 m/s ved Gudmindrup.
 
 ## Næste 5 dage
-- fre: **Gudmindrup** 47% · 7 m/s VNV · kl. 10–12
+- fre: ingen kite (bedst Gudmindrup 47%)
 - lør: **Gudmindrup** 58% · 8 m/s VNV · kl. 8–13
 - søn: ingen kite (bedst Kabelstrand 13%)
 - man: **Gudmindrup** 43% · 8 m/s N · kl. 8–12
