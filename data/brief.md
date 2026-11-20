@@ -6,7 +6,7 @@
 ## Næste 5 dage
 - lør: **Gudmindrup** 85% · 9 m/s VNV · kl. 8–16
 - søn: **Gudmindrup** 59% · 9 m/s NNØ · kl. 8–16
-- man: **Gudmindrup** 56% · 7 m/s N · kl. 8–12
+- man: **Gudmindrup** 56% · 8 m/s N · kl. 8–13
 - tir: ingen kite (bedst Kabelstrand 1%)
 - ons: ingen kite (bedst Lynæs 0%)
 
