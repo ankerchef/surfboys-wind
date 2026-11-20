@@ -1,13 +1,15 @@
-# Surfboys vind · fre 20/11
+# Surfboys vind · lør 21/11
 
 ## I dag
-- Ingen kite i dag. Max ~6 m/s ved Gudmindrup.
+- **Gudmindrup** GO · 81% · kl. 8–16 · 9 m/s (stød 14) fra VNV · sikkerhed mellem
+- **Lynæs** GO · 92% · kl. 8–16 · 8 m/s (stød 13) fra VNV · sikkerhed mellem
+- **Kabelstrand** GO · 67% · kl. 8–16 · 8 m/s (stød 14) fra VNV · sikkerhed mellem
 
 ## Næste 5 dage
-- lør: **Gudmindrup** 83% · 9 m/s VNV · kl. 8–16
-- søn: **Gudmindrup** 59% · 9 m/s N · kl. 8–16
-- man: **Gudmindrup** 55% · 8 m/s NNØ · kl. 8–13
+- søn: **Gudmindrup** 66% · 9 m/s NNØ · kl. 8–16
+- man: **Gudmindrup** 66% · 8 m/s NNØ · kl. 8–13
 - tir: ingen kite (bedst Gudmindrup 1%)
 - ons: ingen kite (bedst Lynæs 0%)
+- tor: ingen kite (bedst Amager Sylten 2%)
 
-_Træfsikkerhed 30 dage: 93% (133 spot-dage)._
+_Træfsikkerhed 30 dage: 94% (141 spot-dage)._
