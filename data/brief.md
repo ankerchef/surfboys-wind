@@ -2,7 +2,7 @@
 
 ## I dag
 - **Gudmindrup** GO · 98% · kl. 8–16 · 9 m/s (stød 14) fra VNV · sikkerhed mellem
-- **Lynæs** GO · 74% · kl. 8–16 · 8 m/s (stød 13) fra VNV · sikkerhed mellem
+- **Lynæs** GO · 74% · kl. 8–16 · 8 m/s (stød 12) fra VNV · sikkerhed mellem
 - **Kabelstrand** GO · 63% · kl. 8–16 · 8 m/s (stød 14) fra VNV · sikkerhed mellem
 
 ## Næste 5 dage
