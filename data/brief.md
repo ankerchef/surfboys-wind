@@ -1,9 +1,9 @@
 # Surfboys vind · lør 21/11
 
 ## I dag
-- **Gudmindrup** GO · 86% · kl. 8–16 · 9 m/s (stød 13) fra VNV · sikkerhed mellem
-- **Lynæs** GO · 64% · kl. 8–16 · 8 m/s (stød 12) fra VNV · sikkerhed mellem
-- **Kabelstrand** MÅSKE · 59% · kl. 8–16 · 8 m/s (stød 13) fra VNV · sikkerhed mellem
+- **Gudmindrup** GO · 97% · kl. 8–16 · 10 m/s (stød 14) fra VNV · sikkerhed mellem
+- **Lynæs** GO · 74% · kl. 8–16 · 8 m/s (stød 13) fra VNV · sikkerhed mellem
+- **Kabelstrand** MÅSKE · 59% · kl. 8–16 · 8 m/s (stød 14) fra VNV · sikkerhed mellem
 
 ## Næste 5 dage
 - søn: **Gudmindrup** 74% · 9 m/s N · kl. 8–16
