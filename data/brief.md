@@ -7,7 +7,7 @@
 
 ## Næste 5 dage
 - man: **Gudmindrup** 80% · 10 m/s N · kl. 8–16
-- tir: ingen kite (bedst Gudmindrup 21%)
+- tir: ingen kite (bedst Gudmindrup 13%)
 - ons: ingen kite (bedst Amager Sylten 1%)
 - tor: ingen kite (bedst Amager Sylten 1%)
 - fre: ingen kite (bedst Amager Sylten 5%)
