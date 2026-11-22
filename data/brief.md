@@ -1,8 +1,8 @@
 # Surfboys vind · søn 22/11
 
 ## I dag
-- **Gudmindrup** GO · 77% · kl. 8–16 · 9 m/s (stød 12) fra N · sikkerhed høj
-- **Kabelstrand** MÅSKE · 40% · kl. 12–16 · 8 m/s (stød 13) fra N · sikkerhed høj
+- **Gudmindrup** GO · 77% · kl. 8–16 · 9 m/s (stød 12) fra N · sikkerhed mellem
+- **Kabelstrand** MÅSKE · 40% · kl. 11–16 · 8 m/s (stød 12) fra N · sikkerhed høj
 
 ## Næste 5 dage
 - man: **Gudmindrup** 82% · 10 m/s N · kl. 8–16
