@@ -2,7 +2,7 @@
 
 ## I dag
 - **Gudmindrup** GO · 73% · kl. 8–16 · 9 m/s (stød 13) fra N · sikkerhed mellem
-- **Kabelstrand** MÅSKE · 37% · kl. 8–16 · 8 m/s (stød 12) fra N · sikkerhed mellem
+- **Kabelstrand** MÅSKE · 37% · kl. 8–16 · 8 m/s (stød 13) fra N · sikkerhed mellem
 - **Hornbæk** MÅSKE · 45% · kl. 8–11 · 7 m/s (stød 12) fra N · sikkerhed høj
 
 ## Næste 5 dage
