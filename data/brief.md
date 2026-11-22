@@ -6,8 +6,8 @@
 - **Kabelstrand** MÅSKE · 59% · kl. 8–16 · 8 m/s (stød 13) fra N · sikkerhed mellem
 
 ## Næste 5 dage
-- man: **Gudmindrup** 90% · 10 m/s N · kl. 8–16
-- tir: ingen kite (bedst Gudmindrup 13%)
+- man: **Gudmindrup** 88% · 10 m/s N · kl. 8–16
+- tir: ingen kite (bedst Gudmindrup 21%)
 - ons: ingen kite (bedst Amager Sylten 1%)
 - tor: ingen kite (bedst Amager Sylten 1%)
 - fre: ingen kite (bedst Amager Sylten 5%)
