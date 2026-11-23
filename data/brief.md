@@ -1,15 +1,13 @@
-# Surfboys vind · man 23/11
+# Surfboys vind · tir 24/11
 
 ## I dag
-- **Gudmindrup** GO · 81% · kl. 8–16 · 10 m/s (stød 14) fra N · sikkerhed mellem
-- **Kabelstrand** GO · 79% · kl. 8–16 · 9 m/s (stød 15) fra N · sikkerhed mellem
-- **Hornbæk** MÅSKE · 60% · kl. 8–12 · 8 m/s (stød 13) fra N · sikkerhed høj
+- Ingen kite i dag. Max ~4 m/s ved Lynæs.
 
 ## Næste 5 dage
-- tir: ingen kite (bedst Lynæs 0%)
 - ons: ingen kite (bedst Lynæs 0%)
 - tor: ingen kite (bedst Lynæs 0%)
 - fre: ingen kite (bedst Amager Sylten 1%)
 - lør: ingen kite (bedst Amager Sylten 11%)
+- søn: **Amager Sylten** 35% · 8 m/s SSØ · kl. 8–14
 
-_Træfsikkerhed 30 dage: 92% (157 spot-dage)._
+_Træfsikkerhed 30 dage: 92% (165 spot-dage)._
