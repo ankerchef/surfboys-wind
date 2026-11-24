@@ -1,7 +1,7 @@
 # Surfboys vind · tir 24/11
 
 ## I dag
-- Ingen kite i dag. Max ~4 m/s ved Lynæs.
+- Ingen kite i dag. Max ~6 m/s ved Gudmindrup.
 
 ## Næste 5 dage
 - ons: ingen kite (bedst Gudmindrup 12%)
