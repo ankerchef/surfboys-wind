@@ -8,6 +8,6 @@
 - tor: ingen kite (bedst Amager Sylten 8%)
 - fre: ingen kite (bedst Lynæs 0%)
 - lør: ingen kite (bedst Amager Sylten 12%)
-- søn: **Amager Sylten** 42% · 7 m/s SSØ · kl. 8–12
+- søn: **Amager Sylten** 47% · 7 m/s SSØ · kl. 8–12
 
 _Træfsikkerhed 30 dage: 92% (165 spot-dage)._
