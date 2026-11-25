@@ -1,13 +1,13 @@
-# Surfboys vind · ons 25/11
+# Surfboys vind · tor 26/11
 
 ## I dag
-- Ingen kite i dag. Max ~6 m/s ved Gudmindrup.
+- Ingen kite i dag. Max ~4 m/s ved Lynæs.
 
 ## Næste 5 dage
-- tor: ingen kite (bedst Lynæs 0%)
 - fre: ingen kite (bedst Lynæs 0%)
-- lør: ingen kite (bedst Amager Sylten 9%)
-- søn: **Amager Sylten** 82% · 8 m/s SSØ · kl. 8–16
-- man: ingen kite (bedst Lynæs 12%)
+- lør: ingen kite (bedst Amager Sylten 11%)
+- søn: **Amager Sylten** 87% · 8 m/s SSØ · kl. 8–16
+- man: ingen kite (bedst Lynæs 6%)
+- tir: ingen kite (bedst Lynæs 14%)
 
-_Træfsikkerhed 30 dage: 92% (173 spot-dage)._
+_Træfsikkerhed 30 dage: 93% (183 spot-dage)._
