@@ -6,7 +6,7 @@
 ## Næste 5 dage
 - fre: ingen kite (bedst Lynæs 0%)
 - lør: ingen kite (bedst Amager Sylten 11%)
-- søn: **Amager Sylten** 87% · 8 m/s SSØ · kl. 8–16
+- søn: **Amager Sylten** 87% · 8 m/s SSØ · kl. 8–15
 - man: ingen kite (bedst Lynæs 6%)
 - tir: ingen kite (bedst Lynæs 14%)
 
