@@ -4,8 +4,8 @@
 - Ingen kite i dag. Max ~6 m/s ved Amager Sylten.
 
 ## Næste 5 dage
-- lør: **Amager Sylten** 37% · 7 m/s SØ · kl. 14–15
-- søn: **Amager Sylten** 82% · 8 m/s SSØ · kl. 8–14
+- lør: **Amager Sylten** 37% · 7 m/s SØ · kl. 15–16
+- søn: **Amager Sylten** 75% · 8 m/s SSØ · kl. 8–13
 - man: ingen kite (bedst Lynæs 11%)
 - tir: ingen kite (bedst Lynæs 23%)
 - ons: ingen kite (bedst Lynæs 29%)
